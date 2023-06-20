@@ -16,3 +16,4 @@ Download the application in the Releases Tab
 - Works with up to MacOS Sonoma (14) + Developer Beta
 
 <img src="http://rlvision.com/photosift/screenshot.png">
+<img src="ss.png">
